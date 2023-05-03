@@ -5,11 +5,13 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -47,6 +49,11 @@
 </details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Key Features <a name="key-features"></a>
+
+- **[Random Messages]** - Added random message that changes randomly upon browser event
+- **[React Intergration]** - Intergrated react with Ruby on Rails
 
 <!-- GETTING STARTED -->
 
@@ -92,6 +99,13 @@ To run the project, execute the following command:
 - Github: [altontonn](https://github.com/altontonn/)
 - Twitter: [AlumasaNewton](https://twitter.com/AlumasaNewton)
 - Linkedin: [newton-alumasa](https://www.linkedin.com/in/newton-alumasa/)
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Add a Button to change the greeting messages randomly**
+- **Add basic UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
