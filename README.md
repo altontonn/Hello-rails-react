@@ -169,7 +169,7 @@ Feel free to check the [issues page](https://github.com/altontonn/Hello-rails-re
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project...
+If you like this project give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,11 +177,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+I would like to thank microverse for useful materials to help e complete this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
